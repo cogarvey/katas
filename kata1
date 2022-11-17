@@ -1,5 +1,6 @@
 const sumLargestNumbers = function(data) {
-  // Put your solution here
+  let nums = data.sort();
+  return nums[data.length - 1] + nums[data.length - 2];
 };
 
 console.log(sumLargestNumbers([1, 10]));
