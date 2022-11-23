@@ -1,3 +1,3 @@
-## KATAS
+# KATAS
 
-# A collection of JavaScript problems
+### A collection of JavaScript problems
